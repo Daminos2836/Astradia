@@ -16,6 +16,12 @@
                 "custom_model_data": 12
             },
             "model": "item/custom/hat/angel_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/custom/hat/devil_horn"
         }
     ]
 }
