@@ -1,2 +1,6 @@
 *.mcfunction
 *.prettierignore
+*.v[0-9].png
+*.v[0-9][0-9].png
+base/**
+*.pdn

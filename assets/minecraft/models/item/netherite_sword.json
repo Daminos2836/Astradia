@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "item/custom/netherite_sword/noob_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/custom/netherite_sword/mjollnir"
     }
   ]
 }
