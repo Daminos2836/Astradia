@@ -25,3 +25,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 -   "Bunny Ears" by Lilianne: https://blockmodels.com/user/Lilianne. Available for download at https://blockmodels.com.com/model/404/
 -   "Christmas" by SonGoku1909. Available for download at https://blockmodels.com.com/model/729/
 -   "Wizard's Hat" by Lilianne: https://blockmodels.com/user/Lilianne. Available for download at https://blockmodels.com.com/model/407/
+
+### Potion
+
+-   "Wine bottle" by Legi2. Available for download at https://blockmodels.com.com/model/671/
