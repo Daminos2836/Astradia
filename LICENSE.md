@@ -1,0 +1,12 @@
+Copyright (c) 2021 Daminos2836
+
+![CC BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+The following works are the property of their respective authors:
+
+-   "Crafting Table Icon" (https://iconarchive.com/show/minecraft-icons-by-chrisl21/Crafting-Table-icon.html) by ChrisL21 is licensed under [Creative Commons Attribution-Non Commercial-No Derivate 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+-   "Mjolnir" (https://skfb.ly/6XDrZ) by Dunkan_404 is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+-   "Heroes Blade" (https://skfb.ly/6S8KU) by BenRulez is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+-   "Master Sword" by L18. Available for download at https://blockmodels.com.com/model/771/
