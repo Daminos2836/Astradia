@@ -22,3 +22,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 -   "Captain America Shield" by SonGoku1909. Available for download at https://blockmodels.com.com/model/588/
 -   "(Princess Mononoke) Sans mask" by Gengar: https://www.reddit.com/user/Gengar218. Available for download at https://blockmodels.com.com/model/503/
 -   "Swablu" by dragonmaster95: https://www.twitter.com/dragonmaster_95. Available for download at https://blockmodels.com.com/model/605/
+-   "Bunny Ears" by Lilianne: https://blockmodels.com/user/Lilianne. Available for download at https://blockmodels.com.com/model/404/
+-   "Christmas" by SonGoku1909. Available for download at https://blockmodels.com.com/model/729/
+-   "Wizard's Hat" by Lilianne: https://blockmodels.com/user/Lilianne. Available for download at https://blockmodels.com.com/model/407/

@@ -46,6 +46,24 @@
                 "custom_model_data": 17
             },
             "model": "item/custom/hat/tylton"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "item/custom/hat/bunny_ears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "item/custom/hat/christmas"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "item/custom/hat/wizard_hat"
         }
     ]
 }
