@@ -22,6 +22,30 @@
                 "custom_model_data": 13
             },
             "model": "item/custom/hat/devil_horn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/custom/hat/patrick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/custom/hat/captain_america_shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/custom/hat/mononokes_mask"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "item/custom/hat/tylton"
         }
     ]
 }
