@@ -15,6 +15,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 -   "Mjolnir" (https://skfb.ly/6XDrZ) by Dunkan_404 is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 -   "Heroes Blade" (https://skfb.ly/6S8KU) by BenRulez is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 -   "Master Sword" by L18. Available for download at https://blockmodels.com.com/model/771/
+-   "Leviathan Axe" by b3nja015. Available for download at https://blockmodels.com.com/model/721/
+-   "Greatsword of Black" by dragonmaster95: https://www.twitter.com/dragonmaster_95. Available for download at https://blockmodels.com.com/model/660/
 
 ### Hat
 
