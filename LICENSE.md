@@ -31,3 +31,21 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 ### Potion
 
 -   "Wine bottle" by Legi2. Available for download at https://blockmodels.com.com/model/671/
+-   "Beer". Available for download at http://minecraft.novaskin.me/skin/4777914372/Beer-totem
+-   "Vodka". Available for download at http://minecraft.novaskin.me/skin/3562593114/Vodka
+-   "Redbull". Available for download at http://minecraft.novaskin.me/skin/4978513584/Redbull
+-   "bottle". Available for download at http://minecraft.novaskin.me/skin/4976165163/bottle
+-   "potion_bottle_drinkable". Available for download at http://minecraft.novaskin.me/skin/4348533040/potion_bottle_drinkable
+-   "...". Available for download at http://minecraft.novaskin.me/skin/4943293114
+-   "health". Available for download at http://minecraft.novaskin.me/skin/4961623053/health
+-   "coca cola". Available for download at http://minecraft.novaskin.me/skin/4191513033/coca-cola
+-   "...". Available for download at http://minecraft.novaskin.me/skin/3949563152
+
+### Coin
+
+-   "iron coin". Available for download at http://minecraft.novaskin.me/skin/4994753763/iron-coin
+-   "coin". Available for download at http://minecraft.novaskin.me/skin/5012163120/coin
+-   "coin". Available for download at http://minecraft.novaskin.me/skin/4998123729/coin
+-   "כוין ברקת". Available for download at http://minecraft.novaskin.me/skin/4980964624/כוין-ברקת
+-   "coin-red". Available for download at http://minecraft.novaskin.me/skin/5009953082/coin-red
+-   "invisi potion". Available for download at http://minecraft.novaskin.me/skin/4834213199/invisi-potion
