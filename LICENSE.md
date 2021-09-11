@@ -40,6 +40,15 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 -   "health". Available for download at http://minecraft.novaskin.me/skin/4961623053/health
 -   "coca cola". Available for download at http://minecraft.novaskin.me/skin/4191513033/coca-cola
 -   "...". Available for download at http://minecraft.novaskin.me/skin/3949563152
+-   "caprison". Available for download at http://minecraft.novaskin.me/skin/3667933292/caprison
+-   "SCP Bottle". Available for download at http://minecraft.novaskin.me/skin/3583723380/SCP-Bottle
+-   "Maracuja". Available for download at http://minecraft.novaskin.me/skin/3755233074/Maracuja
+-   "whiskey". Available for download at https://minecraft.novaskin.me/skin/3696233212/whiskey
+-   "efre". Available for download at http://minecraft.novaskin.me/skin/3288723127/efre
+-   "YanMerkulow123". Available for download at http://minecraft.novaskin.me/skin/3210993055/YanMerkulow123
+-   "...". Available for download at http://minecraft.novaskin.me/skin/3327993052
+-   "Eclesya potion". Available for download at http://minecraft.novaskin.me/skin/1197663023/Eclesya-potion
+-   "potiom_bottle_drinkable". Available for download at http://minecraft.novaskin.me/skin/5113454592/potiom_bottle_drinkable
 
 ### Coin
 
