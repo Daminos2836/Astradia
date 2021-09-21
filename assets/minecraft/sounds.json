@@ -1,0 +1,10 @@
+{
+    "brewery.vomit": {
+        "sounds": [
+            {
+                "name": "vomit",
+                "stream": false
+            }
+        ]
+    }
+}
