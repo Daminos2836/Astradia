@@ -64,3 +64,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 -   vomit sound, sound effect. Available at https://youtu.be/ShqPoIcQ7cU
 -   MINECRAFT CREEPER RAP | Dan Bull | ENDING A. Available at https://youtu.be/ZZujisNZuw0
 -   Medieval Song Village Consort [No Copyright Music]. Available at https://youtu.be/eZ_r1H9vHkI
+-   Royalty Free Medieval Music - "Marked" by Alexander Nakarada. Available at https://youtu.be/4BRcY4o06A0
+-   Royalty Free Medieval Music - "Bonfire" by Alexander Nakarada. Available at https://youtu.be/WQ4lp_iAtJQ
+-   Royalty Free Medieval Music - "Celebration" by Alexander Nakarada. Available at https://youtu.be/h-aqStDuObU
+-   Royalty Free Medieval Music - "Blacksmith" by Alexander Nakarada. Available at https://youtu.be/8AvbvL8oUNs
+-   Royalty Free Medieval Music - "Entertainment" by Alexander Nakarada. Available at https://youtu.be/hOGLCoYangU
+-   Western/Viking Hybrid Music - "Wild West Vikings" by Alexander Nakarada (Royalty Free). Available at https://youtu.be/ZNaHFDd7QbM

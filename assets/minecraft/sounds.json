@@ -16,10 +16,63 @@
             }
         ]
     },
-    "custom.music.medieval": {
+    "custom.music.medieval.blacksmith": {
         "sounds": [
             {
-                "name": "music/medieval",
+                "name": "music/medieval/blacksmith",
+                "volume": 1.5,
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.bonfire": {
+        "sounds": [
+            {
+                "name": "music/medieval/bonfire",
+                "volume": 1.5,
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.celebration": {
+        "sounds": [
+            {
+                "name": "music/medieval/celebration",
+                "volume": 1.5,
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.entertainment": {
+        "sounds": [
+            {
+                "name": "music/medieval/entertainment",
+                "volume": 1.5,
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.marked": {
+        "sounds": [
+            {
+                "name": "music/medieval/marked",
+                "volume": 1.5,
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.medieval": {
+        "sounds": [
+            {
+                "name": "music/medieval/medieval",
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval.wild-west-vikings": {
+        "sounds": [
+            {
+                "name": "music/medieval/wild-west-vikings",
                 "stream": true
             }
         ]
