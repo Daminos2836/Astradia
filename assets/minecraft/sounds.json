@@ -1,9 +1,34 @@
 {
     "brewery.vomit": {
+        "subtitle": "vomit",
         "sounds": [
             {
                 "name": "vomit",
                 "stream": false
+            }
+        ]
+    },
+    "custom.music.im_a_creeper": {
+        "sounds": [
+            {
+                "name": "music/im_a_creeper",
+                "stream": true
+            }
+        ]
+    },
+    "custom.music.medieval": {
+        "sounds": [
+            {
+                "name": "music/medieval",
+                "stream": true
+            }
+        ]
+    },
+    "custom.stereo.medieval": {
+        "sounds": [
+            {
+                "name": "stereo/medieval",
+                "stream": true
             }
         ]
     }

@@ -130,6 +130,12 @@
                 "custom_model_data": 21
             },
             "model": "item/custom/potion/syringe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "item/custom/potion/potato_soupe"
         }
     ]
 }

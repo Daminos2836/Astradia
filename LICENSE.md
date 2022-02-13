@@ -62,3 +62,5 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 ### Sound
 
 -   vomit sound, sound effect. Available at https://youtu.be/ShqPoIcQ7cU
+-   MINECRAFT CREEPER RAP | Dan Bull | ENDING A. Available at https://youtu.be/ZZujisNZuw0
+-   Medieval Song Village Consort [No Copyright Music]. Available at https://youtu.be/eZ_r1H9vHkI

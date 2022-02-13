@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "custom/potion/beer",
+        "layer0": "custom/potion/beer_overlay",
         "layer1": "custom/potion/beer"
     }
 }
